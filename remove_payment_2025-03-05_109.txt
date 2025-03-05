@@ -1,0 +1,1 @@
+Remove payment gateway for database (major) - Implemented a new feature to enhance payment gateway.
