@@ -1,0 +1,1 @@
+Remove error handling for validation (easy) - Implemented a new feature to enhance error handling.
