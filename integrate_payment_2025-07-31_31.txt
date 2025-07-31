@@ -1,0 +1,1 @@
+Integrate payment gateway for synchronization (efficient)
