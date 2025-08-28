@@ -1,0 +1,1 @@
+Fix payment gateway for security (legacy) - Implemented a new feature to enhance payment gateway.
