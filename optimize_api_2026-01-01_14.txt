@@ -1,0 +1,1 @@
+Optimize API calls for middleware (simplified)
