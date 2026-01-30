@@ -1,0 +1,1 @@
+Remove email verification for feature (simplified) - Implemented a new feature to enhance email verification.
